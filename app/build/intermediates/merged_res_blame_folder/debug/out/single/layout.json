@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.escom.examenfirebase.app-mergeDebugResources-42:/layout/item_user.xml",
+        "source": "com.escom.examenfirebase.app-main-45:/layout/item_user.xml"
+    },
+    {
+        "merged": "com.escom.examenfirebase.app-mergeDebugResources-42:/layout/activity_users_list.xml",
+        "source": "com.escom.examenfirebase.app-main-45:/layout/activity_users_list.xml"
+    },
+    {
+        "merged": "com.escom.examenfirebase.app-mergeDebugResources-42:/layout/activity_notifications_history.xml",
+        "source": "com.escom.examenfirebase.app-main-45:/layout/activity_notifications_history.xml"
+    },
+    {
+        "merged": "com.escom.examenfirebase.app-mergeDebugResources-42:/layout/activity_send_notification.xml",
+        "source": "com.escom.examenfirebase.app-main-45:/layout/activity_send_notification.xml"
+    },
+    {
+        "merged": "com.escom.examenfirebase.app-mergeDebugResources-42:/layout/activity_profile.xml",
+        "source": "com.escom.examenfirebase.app-main-45:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.escom.examenfirebase.app-mergeDebugResources-42:/layout/activity_admin_home.xml",
+        "source": "com.escom.examenfirebase.app-main-45:/layout/activity_admin_home.xml"
+    },
+    {
+        "merged": "com.escom.examenfirebase.app-mergeDebugResources-42:/layout/activity_register.xml",
+        "source": "com.escom.examenfirebase.app-main-45:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.escom.examenfirebase.app-mergeDebugResources-42:/layout/activity_login.xml",
+        "source": "com.escom.examenfirebase.app-main-45:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.escom.examenfirebase.app-mergeDebugResources-42:/layout/activity_user_home.xml",
+        "source": "com.escom.examenfirebase.app-main-45:/layout/activity_user_home.xml"
+    },
+    {
+        "merged": "com.escom.examenfirebase.app-mergeDebugResources-42:/layout/item_notification.xml",
+        "source": "com.escom.examenfirebase.app-main-45:/layout/item_notification.xml"
+    },
+    {
+        "merged": "com.escom.examenfirebase.app-mergeDebugResources-42:/layout/activity_splash.xml",
+        "source": "com.escom.examenfirebase.app-main-45:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.escom.examenfirebase.app-mergeDebugResources-42:/layout/item_user_selectable.xml",
+        "source": "com.escom.examenfirebase.app-main-45:/layout/item_user_selectable.xml"
+    }
+]

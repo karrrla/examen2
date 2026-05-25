@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#7B1538</color>
+    <color name="ipn_red">#7B1538</color>
+    <color name="ipn_red_dark">#5A0F28</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="admin_master_password">ESCOM2026</string>
+    <string name="admin_panel">Panel de Administrador</string>
+    <string name="app_name">Examen Firebase</string>
+    <string name="default_notification_channel_id">examen_notifications</string>
+    <string name="default_notification_channel_name">Notificaciones</string>
+    <string name="email">Correo electrónico</string>
+    <string name="gcm_defaultSenderId" translatable="false">633007336684</string>
+    <string name="google_api_key" translatable="false">AIzaSyBuviyFX4Wtn4PGKmBGd-nfz72aMLrss2A</string>
+    <string name="google_app_id" translatable="false">1:633007336684:android:9b4339e011bee03f4bc9c9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBuviyFX4Wtn4PGKmBGd-nfz72aMLrss2A</string>
+    <string name="google_storage_bucket" translatable="false">examenfirebaseapp.firebasestorage.app</string>
+    <string name="login_button">Entrar</string>
+    <string name="login_link">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="master_password">Contraseña maestra (admin)</string>
+    <string name="my_profile">Mi perfil</string>
+    <string name="name">Nombre completo</string>
+    <string name="notif_body">Mensaje</string>
+    <string name="notif_title">Título</string>
+    <string name="notifications_history">Historial de notificaciones</string>
+    <string name="password">Contraseña</string>
+    <string name="profile_title">Mi Perfil</string>
+    <string name="project_id" translatable="false">examenfirebaseapp</string>
+    <string name="register_as_admin">Registrar como administrador</string>
+    <string name="register_button">Registrarme</string>
+    <string name="register_link">¿No tienes cuenta? Regístrate</string>
+    <string name="register_title">Registro de Usuario</string>
+    <string name="save">Guardar cambios</string>
+    <string name="select_recipients">Selecciona destinatarios</string>
+    <string name="send">Enviar</string>
+    <string name="send_notification">Enviar notificación</string>
+    <string name="send_to_all">Enviar a todos los usuarios</string>
+    <string name="users_list">Lista de usuarios</string>
+    <string name="welcome">Bienvenido</string>
+    <style name="Theme.ExamenFirebase" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ipn_red</item>
+        <item name="colorPrimaryVariant">@color/ipn_red_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">@color/ipn_red_dark</item>
+    </style>
+</resources>
