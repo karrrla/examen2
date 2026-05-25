@@ -6,7 +6,7 @@
 
 ## Integrantes
 - Karla Sofia Saavedra Mata
-- Brian Ricardo Bernal Ramírez
+- Brian Ricardo Bernal Ramírez || 2023630387
 
 ## Descripción
 Aplicación móvil nativa en Android desarrollada en Kotlin que implementa un sistema de autenticación mediante Firebase y envío de notificaciones push. La aplicación gestiona dos tipos de usuarios (normal y administrador) con diferentes niveles de acceso.
