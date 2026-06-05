@@ -39,6 +39,26 @@ Aplicación móvil nativa en Android desarrollada en Kotlin que implementa un si
 - Recepción de notificaciones push en la barra de estado
 - Historial de notificaciones recibidas almacenado en Firestore
 
+## Capturas de pantalla
+
+### Autenticación
+
+| Iniciar Sesión | Registro de Usuario | Registro de Administrador |
+|:-:|:-:|:-:|
+| ![Login](screenshots/login.png) | ![Registro usuario](screenshots/register_user.png) | ![Registro admin](screenshots/register_admin.png) |
+
+### Usuario Normal
+
+| Pantalla Principal | Historial de Notificaciones |
+|:-:|:-:|
+| ![User Home](screenshots/user_home.png) | ![Historial usuario](screenshots/notifications_history_user.png) |
+
+### Administrador
+
+| Panel de Administrador | Lista de Usuarios | Enviar Notificación | Historial de Notificaciones |
+|:-:|:-:|:-:|:-:|
+| ![Admin Home](screenshots/admin_home.png) | ![Lista usuarios](screenshots/users_list.png) | ![Enviar notificación](screenshots/send_notification.png) | ![Historial admin](screenshots/notifications_history_admin.png) |
+
 ## Estructura del proyecto
 ```
 app/src/main/java/com/escom/examenfirebase/
